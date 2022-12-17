@@ -10,7 +10,7 @@ const readingTime = require('henry-reading-time')
 
 const mdOptions = {
   html: true,
-  breaks: true,
+  breaks: false,
   linkify: true,
   typographer: true,
 }
